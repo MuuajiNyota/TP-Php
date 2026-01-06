@@ -1,5 +1,6 @@
 
 body {
+    background: linear-gradient(to bottom, #87CEEB, #98FB98);
     font-family: Arial, sans-serif;
     padding: 20px;
 }
@@ -13,3 +14,4 @@ footer {
     font-size: 0.8em;
     text-align: center;
 }
+
